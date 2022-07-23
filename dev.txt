@@ -1,3 +1,2 @@
 This is a sample file in dev branch.
 This line is added in main branch.
-This line added in dev branch.
